@@ -1,1 +1,3 @@
 #Use of this page is optional. If you use code here, make sure either import page4 or from page4 import * appear on your main.py page.
+
+It was a ADJECTIVE day at the beach. first, we went in the ADJECTIVE water. we had fun VERB in the water. Then, we dried off and ate PL NOUN. After, I made a Noun castle. when the sun set, I made a NOUN fire and roasted ADJECTIVE NOUN. Finally it was time to VERB home. I had alot of ADJECTIVE. 
