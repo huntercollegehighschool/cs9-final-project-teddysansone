@@ -1,15 +1,16 @@
-#repl"""
-#Name(s): teddy sansone
-#name of Project: Mad libs
-program = int(input("Which part are you testing? Type in 1, 2, 3, 4, or 5 : "))
+import random
 
-if program == 1:
+print( "welcome to Mad libs by Theodore Sansone")
+a = random.randint(1,4)
+
+
+if a == 1:
   import page1
-elif program == 2:
+elif a == 2:
   import page2
-elif program == 3:
+elif a == 3:
   import page3
-elif program == 4:
+elif a == 4:
   import page4
-elif program == 5:
+elif a == 5:
   import page5
