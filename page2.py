@@ -1,3 +1,11 @@
-#Use of this page is optional. If you use code here, make sure either import page2 or from page2 import * appear on your main.py page.
+time = input("enter a time")
+noun1 = input("enter a noun")
+noun2 = input("enter another noun")
+verb1 = input("enter a verb")
+noun3 = input("enter a noun")
+game = input("enter a game")
+noun4 = input("enter a noun")
+sport = input("enter a sport")
 
-First i woke up up at TIME. I ate NOUN for breakfast. I took the NOUN to school. My first class was VERBING. Then it was time for lunch, i ate NOUN. At recess, we Verb. then i had NOUN class. Finally, I went to SPORT practice and then went home. 
+
+print("First I woke up up at {time). I ate {noun1} for breakfast. I took the {noun2} to school. My first class was {verb1). Then it was time for lunch, i ate {noun3}. At recess, we play {game}. then i had {noun4} class. Finally, I went to SPORT practice and then went home.")

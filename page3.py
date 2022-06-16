@@ -1,3 +1,13 @@
-#Use of this page is optional. If you use code here, make sure either import page3 or from page3 import * appear on your main.py page.
+sport = input("enter a sport")
+name = input("enter a name")
+pt verb = input("enter a past tense verb")
+adjective = input("enter a adjective")
+noun = input("enter a noun")
+adjective2 = input("enter a adjective")
+city = input("enter a city")
+plural noun = input("enter a plural noun")
+adjective3 = input("enter an adjective")
 
-I went to a SPORT game today with NAME. We VERB to the game, and got their early. I ate a really ADJECTIVE NOUN. Then the game started. The game was exciting and ADJECTIVE. After two overtimes, the CITY PL NOUN won. I was so ADJECTIVE. 
+
+
+print("I went to a {sport} game today with {name}. We {pt verb} to the game, and got their early. I ate a really {adjective} {noun}. Then the game started. The game was exciting and {adjective2}. After two overtimes, the {city} {plural noun} won. I was so {adjective3")
